@@ -19,7 +19,7 @@
   </a>
 </p>
 
-## 🧑‍💻 Sobre Mim
+## - Sobre Mim
 
 Olá! 👋
 
@@ -29,7 +29,7 @@ Tenho ampla experiência em PHP, MySQL, CSS, JavaScript e HTML, com foco em cria
 
 <br>
 
-##  🔧 Tecnologias & Ferramentas
+##  - Tecnologias & Ferramentas
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,php,wordpress,laravel,html,css,git,github,docker,postgres,mysql" alt="Skills" />
@@ -37,9 +37,9 @@ Tenho ampla experiência em PHP, MySQL, CSS, JavaScript e HTML, com foco em cria
 
 <br>
 
-## 📊 GitHub Stats
+## - GitHub Stats
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=spalmeida&show_icons=true&count_private=true&hide=issues&theme=dark&bg_color=22272E&title_color=1D9BF0&icon_color=1D9BF0&border_color=30363D" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spalmeida&layout=compact&theme=dark&bg_color=22272E&title_color=1D9BF0&border_color=30363D&card_width=250" alt="Linguagens Mais Usadas" />
 </div>
@@ -47,7 +47,9 @@ Tenho ampla experiência em PHP, MySQL, CSS, JavaScript e HTML, com foco em cria
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-## 📩 Entre em Contato
+<br>
+
+## - Entre em Contato
 
 Seja para colaborações, freelas ou simplesmente um bom papo sobre tecnologia, estou à disposição. Vamos criar algo incrível juntos! 🚀
 

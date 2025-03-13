@@ -1,21 +1,56 @@
-<h1 align="center">Hi 👋, I'm Samuel</h1>
-<h3 align="center">Developer FullStack | PHP | Wordpress</h3>
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=spalmeida&label=Profile%20views&color=0e75b6&style=flat" alt="spalmeida" /> </p>
-<p></p>
-<h3 align="center">Connect with me:</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22272E,100:1D9BF0&height=200&section=header&text=Samuel%20Almeida&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="Header" />
+</div>
+
+<h2 align="center">🚀 Bem-vindo ao meu GitHub!</h2>
+
 <p align="center">
-<a href="https://linkedin.com/in/samuelpradoalmeida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuelpradoalmeida" height="30" width="40" /></a>
-<a href="https://pt.stackoverflow.com/users/125628" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="125628" height="30" width="40" /></a>
+  <a href="https://samuel.blog.br" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-1D9BF0?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog" />
+  </a>
+  <a href="https://linkedin.com/in/spalmeida" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:samuelprado.a@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/spalmeida" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+## 🧑‍💻 Sobre Mim
+
+Olá! 👋
+
+Sou Samuel Almeida, desenvolvedor Full Stack com mais de 7 anos de experiência, apaixonado por tecnologia e sempre em busca de desafios. Valorizo o aprendizado contínuo e a inovação, buscando entregar soluções eficientes e de alta qualidade.
+
+Tenho ampla experiência em PHP, MySQL, CSS, JavaScript e HTML, com foco em criar resultados que realmente façam a diferença. Vamos construir algo incrível juntos? 🚀
+
+<br>
+
+##  🔧 Tecnologias & Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,php,wordpress,laravel,html,css,git,github,docker,postgres,mysql" alt="Skills" />
 </p>
 
 <br>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## 📊 GitHub Stats
 
-<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=spalmeida&show_icons=true&count_private=true&hide=issues&theme=dark&bg_color=22272E&title_color=1D9BF0&icon_color=1D9BF0&border_color=30363D" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spalmeida&layout=compact&theme=dark&bg_color=22272E&title_color=1D9BF0&border_color=30363D&card_width=250" alt="Linguagens Mais Usadas" />
+</div>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=spalmeida&show_icons=true&locale=en" alt="spalmeida" /></p>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
+## 📩 Entre em Contato
 
+Seja para colaborações, freelas ou simplesmente um bom papo sobre tecnologia, estou à disposição. Vamos criar algo incrível juntos! 🚀
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22272E,100:1D9BF0&height=100&section=footer" width="100%" alt="Footer" />
+</div>

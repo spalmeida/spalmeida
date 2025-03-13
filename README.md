@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22272E,100:1D9BF0&height=200&section=header&text=Samuel%20Almeida&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Samuel%20Almeida&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="Header" />
 </div>
 
 <h2 align="center">🚀 Bem-vindo ao meu GitHub!</h2>
@@ -52,5 +52,5 @@ Tenho ampla experiência em PHP, MySQL, CSS, JavaScript e HTML, com foco em cria
 Seja para colaborações, freelas ou simplesmente um bom papo sobre tecnologia, estou à disposição. Vamos criar algo incrível juntos! 🚀
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22272E,100:1D9BF0&height=100&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&&height=100&section=footer" width="100%" alt="Footer" />
 </div>

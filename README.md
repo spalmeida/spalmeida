@@ -40,8 +40,10 @@ Tenho ampla experiência em PHP, MySQL, CSS, JavaScript e HTML, com foco em cria
 ## - GitHub Stats
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=spalmeida&show_icons=true&count_private=true&hide=issues&theme=dark&bg_color=22272E&title_color=1D9BF0&icon_color=1D9BF0&border_color=30363D" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spalmeida&layout=compact&theme=dark&bg_color=22272E&title_color=1D9BF0&border_color=30363D&card_width=250" alt="Linguagens Mais Usadas" />
+  <a href="https://github.com/spalmeida">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spalmeida&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spalmeida&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
 <!--START_SECTION:activity-->

@@ -40,7 +40,7 @@ Autodidata, orientado a resultado — **se o problema existe, eu entrego a solu�
     <td width="50%" valign="top">
       <h3 align="center">Orqueza</h3>
       <p align="center">
-        <a href="https://orqueza.com.br" target="_blank">orqueza.com.br</a>
+        <a href="https://orqueza.com.br" target="_blank"><img src="https://img.shields.io/badge/orqueza.com.br-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
       </p>
       <p align="center"><strong>SaaS Multi-tenant</strong> — Gestão de projetos e clientes</p>
       <p>Arquitetura com 3 camadas de autorização, CRM com pipeline Kanban, intranet corporativa e sistema de módulos ativáveis por assinatura.</p>
@@ -55,7 +55,7 @@ Autodidata, orientado a resultado — **se o problema existe, eu entrego a solu�
     <td width="50%" valign="top">
       <h3 align="center">ListaPraCasar</h3>
       <p align="center">
-        <a href="https://listapracasar.com.br" target="_blank">listapracasar.com.br</a>
+        <a href="https://listapracasar.com.br" target="_blank"><img src="https://img.shields.io/badge/listapracasar.com.br-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
       </p>
       <p align="center"><strong>SaaS</strong> — Plataforma para casamentos</p>
       <p>Landing pages personalizadas de casamento com lista de presentes e pagamento integrado. Modelo por assinatura.</p>
@@ -146,9 +146,9 @@ Autodidata, orientado a resultado — **se o problema existe, eu entrego a solu�
 
 ```
 2024 — hoje        UP Developer — Full Stack & SaaS Builder
-2023 — 2024        Líder Técnico @ Agência Life (equipe de 4 devs)
+2023 — 2024        Líder Técnico @ Agência Life
 2022 — 2023        Dev Web @ LIGA FACENS (Lab de Inovação)
-2020 — 2023        Dev Full Stack @ Agência Life (3 posições)
+2020 — 2023        Dev Full Stack @ Agência Life
 2018 — 2019        Dev PHP @ Lobo Soluções (ERP do zero)
 2017 — 2018        Instrutor de Informática @ Microflex
 ```
@@ -182,7 +182,11 @@ Autodidata, orientado a resultado — **se o problema existe, eu entrego a solu�
 
 ---
 
+<div align="center">
+
 **Aberto a oportunidades remotas** — colaborações, projetos ou um bom papo sobre tech.
 
 [![Email](https://img.shields.io/badge/samuelprado.a@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:samuelprado.a@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/samuelpradoalmeida-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelpradoalmeida)
+
+</div>

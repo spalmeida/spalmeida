@@ -1,27 +1,14 @@
+<h1 align="center">Samuel Almeida</h1>
+<p align="center"><b>Full Stack | PHP | Laravel | React | WordPress | E-commerce | Automação com IA</b></p>
+
 <div align="center">
 
-# Samuel Almeida
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelpradoalmeida)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelprado.a@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spalmeida)
+[![Orqueza](https://img.shields.io/badge/-Orqueza-58a6ff?style=for-the-badge&logo=rocket&logoColor=white)](https://orqueza.com.br)
 
-**`Full Stack Developer | Tech Lead | SaaS Builder`**
-
-<br/>
-
-<a href="https://www.linkedin.com/in/samuelpradoalmeida" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;
-<a href="mailto:samuelprado.a@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;
-<a href="https://github.com/spalmeida" target="_blank">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>&nbsp;
-<a href="https://orqueza.com.br" target="_blank">
-  <img src="https://img.shields.io/badge/-Orqueza-58a6ff?style=for-the-badge&logo=rocket&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=spalmeida&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile views" />
+![Views](https://komarev.com/ghpvc/?username=spalmeida&style=flat-square&color=grey&label=views)
 
 </div>
 
@@ -51,13 +38,9 @@ Autodidata, orientado a resultado — **se o problema existe, eu entrego a solu�
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">
-        <img src="https://img.shields.io/badge/-🚀-black?style=flat-square" /> Orqueza
-      </h3>
+      <h3 align="center">Orqueza</h3>
       <p align="center">
-        <a href="https://orqueza.com.br" target="_blank">
-          <img src="https://img.shields.io/badge/orqueza.com.br-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" />
-        </a>
+        <a href="https://orqueza.com.br" target="_blank">orqueza.com.br</a>
       </p>
       <p align="center"><strong>SaaS Multi-tenant</strong> — Gestão de projetos e clientes</p>
       <p>Arquitetura com 3 camadas de autorização, CRM com pipeline Kanban, intranet corporativa e sistema de módulos ativáveis por assinatura.</p>
@@ -70,13 +53,9 @@ Autodidata, orientado a resultado — **se o problema existe, eu entrego a solu�
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">
-        <img src="https://img.shields.io/badge/-💍-black?style=flat-square" /> ListaPraCasar
-      </h3>
+      <h3 align="center">ListaPraCasar</h3>
       <p align="center">
-        <a href="https://listapracasar.com.br" target="_blank">
-          <img src="https://img.shields.io/badge/listapracasar.com.br-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" />
-        </a>
+        <a href="https://listapracasar.com.br" target="_blank">listapracasar.com.br</a>
       </p>
       <p align="center"><strong>SaaS</strong> — Plataforma para casamentos</p>
       <p>Landing pages personalizadas de casamento com lista de presentes e pagamento integrado. Modelo por assinatura.</p>
@@ -166,15 +145,17 @@ Autodidata, orientado a resultado — **se o problema existe, eu entrego a solu�
 ### Trajetória
 
 ```
-2024 — hoje        🚀 UP Developer — Full Stack & SaaS Builder
-2023 — 2024        👨‍💼 Líder Técnico @ Agência Life (equipe de 4 devs)
-2022 — 2023        💡 Dev Web @ LIGA FACENS (Lab de Inovação)
-2020 — 2023        ⚡ Dev Full Stack @ Agência Life (3 posições)
-2018 — 2019        🏗️ Dev PHP @ Lobo Soluções (ERP do zero)
-2017 — 2018        📚 Instrutor de Informática @ Microflex
+2024 — hoje        UP Developer — Full Stack & SaaS Builder
+2023 — 2024        Líder Técnico @ Agência Life (equipe de 4 devs)
+2022 — 2023        Dev Web @ LIGA FACENS (Lab de Inovação)
+2020 — 2023        Dev Full Stack @ Agência Life (3 posições)
+2018 — 2019        Dev PHP @ Lobo Soluções (ERP do zero)
+2017 — 2018        Instrutor de Informática @ Microflex
 ```
 
 ---
+
+### GitHub Stats
 
 <div align="center">
   <picture>
@@ -201,11 +182,7 @@ Autodidata, orientado a resultado — **se o problema existe, eu entrego a solu�
 
 ---
 
-<div align="center">
-
 **Aberto a oportunidades remotas** — colaborações, projetos ou um bom papo sobre tech.
 
 [![Email](https://img.shields.io/badge/samuelprado.a@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:samuelprado.a@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/samuelpradoalmeida-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelpradoalmeida)
-
-</div>
